@@ -1,13 +1,23 @@
-<h2 align="center">Languages & Skills</h2>
+![Header](./header.png)
+
+<h1 align="center">jxrski</h1>
+<a href="https://github.com/jxrski"></a>
+
 <p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    </a>
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=jxrski&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/jxrski?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/jxrski?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+<h3 align="center">Current Known Languages: (best ➜ least)</h5>
+<p align="center">
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 </p>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/?username=jxrski&show_icons=true&locale=en&title_color=FFFFFF&text_color=FFFFFF&icons_color=FFFFFF&bg_color=000000&border_color=0500DD&count_private=true)](https://github.com/jxrski) [![GitHub Streak](https://streak-stats.demolab.com?user=jxrski&theme=highcontrast&border_radius=5&border=0500DD&ring=0500DD&fire=0500DD&currStreakLabel=DDDDDD)](https://github.com/jxrski)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=jxrski&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
+
+![Footer](./footer.png)
