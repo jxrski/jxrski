@@ -8,10 +8,6 @@
     <img height="25" src="https://img.shields.io/github/stars/jxrski?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </p>
 
-  <p>
-  <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap," alt="Skills" />
-  </p>
-
   <a href="https://github.com/jxrski/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/?username=jxrski&title_color=f44336&text_color=9f9f9f&show_icons=true&bg_color=000000&hide_border=true&icon_color=f44336&hide_title=true&count_private=true" alt="Jxrski's GitHub stats">
   </a>
