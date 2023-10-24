@@ -14,5 +14,5 @@
 <br>
 
 <p align="center">
-(https://github-readme-stats.vercel.app/api?username=jxrski&show_icons=true&theme=cobalt)
+(https://github-readme-stats.vercel.app/api?username=jxrski&show_icons=true&theme=shadow_red)
 </p>
