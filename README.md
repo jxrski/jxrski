@@ -14,5 +14,7 @@
 <br>
 
 <p align="center">
-  ![jxrski's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jxrski&theme=shadow-red&show_icons=true)
+  [![jxrski's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jxrski&theme=shadow-red&show_icons=true)](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/shadow-red/generate-image.js
+)https://raw.githubusercontent.com/anuraghazra/github-readme-stats/shadow-red/generate-image.js
+
 </p>
