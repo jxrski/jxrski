@@ -1,7 +1,18 @@
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">Jxrski</h1>
+<a href="https://github.com/jxrski"></a>
+
+<p align="center">
+  <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=jxrski&countColorcountColor&countColor=%23006EFF" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/jxrski?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/jxrski?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
+<h4 align="center">Current Known Languages: (best ➜ least)</h5>
+<p align="center">
+           <img src="https://skillicons.dev/icons?i=py,html,cs,"/>
+</p>
+
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-jxrski.vercel.app/api?username=jxrski&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-jxrski.vercel.app/api/top-langs/?username=jxrski&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=jxrski&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
+</p>
