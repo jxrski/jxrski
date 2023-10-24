@@ -12,7 +12,7 @@
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <br>
 
 <p align="center">
