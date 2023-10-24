@@ -1,1 +1,1 @@
-[![Jxrski's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxrski)](https://github.com/jxrski/github-readme-stats)
+[![Jxrski's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jxrski&title_color=f44336&text_color=9f9f9f&show_icons=true&bg_color=000000&hide_border=true&icon_color=f44336&hide_title=true&count_private=true)](https://github.com/jxrski/github-readme-stats)
