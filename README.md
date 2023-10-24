@@ -8,10 +8,9 @@
   <img height="25" src="https://img.shields.io/github/followers/jxrski?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/jxrski?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
-<h3 align="center">Current Known Languages: (best ➜ least)</h5>
+<h3 align="center">Current Known Languages:</h5>
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 </p>
 
 <br>
