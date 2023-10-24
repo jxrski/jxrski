@@ -9,7 +9,7 @@
   </p>
 
   <p>
-  <img src="https://skillicons.dev/icons?i=py,html,,css,bootstrap," alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,bootstrap," alt="Skills" />
   </p>
 
   <a href="https://github.com/jxrski/github-readme-stats">
