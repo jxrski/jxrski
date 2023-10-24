@@ -8,13 +8,11 @@
 </p>
 <h4 align="center">Current Known Languages: (best ➜ least)</h5>
 <p align="center">
-           <img src="https://skillicons.dev/icons?i=py,html,cs,"/>
+           <img src="https://skillicons.dev/icons?i=py,html,"/>
 </p>
 
 <br>
 
 <p align="center">
-  [![jxrski's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jxrski&theme=shadow-red&show_icons=true)](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/shadow-red/generate-image.js
-)https://raw.githubusercontent.com/anuraghazra/github-readme-stats/shadow-red/generate-image.js
-
+  <img src="https://github-readme-stats.vercel.app/api/?username=jxrski&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
