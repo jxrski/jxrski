@@ -4,8 +4,8 @@
 
   <p>
     <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=jxrski&countColorcountColor&countColor=RED" alt="Profile Views"/>
-    <img height="25" src="https://img.shields.io/github/followers/jxrski?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
-    <img height="25" src="https://img.shields.io/github/stars/jxrski?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+    <img height="25" src="https://img.shields.io/github/followers/jxrski?color=RED&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+    <img height="25" src="https://img.shields.io/github/stars/jxrski?color=RED&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
   </p>
 
   <a href="https://github.com/jxrski/github-readme-stats">
